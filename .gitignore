@@ -1,0 +1,13 @@
+# Local secrets and bulky lab files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.vmdk
+*.vdi
+*.vhd
+*.vhdx
+*.iso
+__pycache__/
+.DS_Store
